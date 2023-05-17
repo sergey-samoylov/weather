@@ -1,5 +1,7 @@
 # Simple weather app
 
+[![Weather app made in Guizero](https://github.com/sergey-samoylov/weather/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sergey-samoylov/weather/actions/workflows/main.yml)
+
 Here's what you can do with Guizero - simple but beautiful GUI.
 
 Still prefer laconic CLI interface. 
