@@ -77,7 +77,7 @@ Text(title_box, text="")
 time_up_box = Box(app, width="fill", align="top")
 time_up_line = Text(
     time_up_box,
-    text=time_local.strftime(" %H:%M"),
+    text=time_local.strftime(" %H:%M "),
     align="left"
 )
 time_up_line.text_color = "white"
